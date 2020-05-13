@@ -100,12 +100,27 @@ With: https://www.voiceforge.com/demos/DontdeleteAudio.php
 Website: https://www.voiceforge.com/demo
 
 Don't Go To Voice For For Eric And Jennifer, Just Go To: http://www.fromtexttospeech.com/
+  
+Legacy Maker:
 
+Replace: https://app.vyond.com/videos/list
+With: https://ga.vyond.com/yourvideos
 
+Videomaker: 
 
-Now Comedy World Characters!:
+Replace: https://app.vyond.com/style
+With: https://ga.vyond.com/videomaker
 
+Make A Video Button: 
 
+Replace: https://app.vyond.com/videos/edit
+With: https://ga.vyond.com/full/whiteboard
+
+Character Creator Update: 
+
+https://videomaker322.000webhostapp.com/GoAnimate/Character.html
+
+Comedy World Character Replace:
 
 var character = "adam"; // change to "adam", "bob" , "eve" , or "rocky" depending on who you want to start with.
 
@@ -122,8 +137,6 @@ $('#char_creator_client').flash({
    
  hasVersion: "10.3",
    
-    flashvars: {"apiserver":"https:\/\/ga.vyond.com\/","m_mode":"school","bs":character,"isLogin":"Y","isEmbed":"0","ctc":"go","tlang":"en_US","storePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/store\/3a981f5cb2739137\/<store>","clientThemePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/static\/ad44370a650793d9\/<client_theme>","appCode":"go","page":"","siteId":"go","userId":"00EDZP3Cu0aw","themeId":"family","ut":30}});  
+    flashvars: {"apiserver":"https:\/\/ga.vyond.com\/","m_mode":"school","bs":character,"isLogin":"Y","isEmbed":"0","ctc":"go","tlang":"en_US","storePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/store\/3a981f5cb2739137\/<store>","clientThemePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/static\/ad44370a650793d9\/<client_theme>","appCode":"go","page":"","siteId":"go","userId":"00EDZP3Cu0aw","themeId":"family","ut":30}});
     
-    
-    
-    That's All.
+This was update V2.0
